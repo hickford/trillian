@@ -5,7 +5,6 @@
 * Deprecate `--tree_ids_with_no_ephemeral_nodes` flag by setting it to all trees
   (`*`) by default.
 * Updated golangci-lint to v1.47.3 (developers should update to this version)
-* Delete merkle package, use [github.com/transparency-dev/merkle](https://pkg.go.dev/github.com/transparency-dev/merkle) instead.
 * #2792: Fixed order-dependent unit test.
 
 ## v1.4.2
